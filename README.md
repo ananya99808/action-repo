@@ -1,3 +1,1 @@
-testing webhook connection # action-repo
-#   T r i g g e r   t e s t  
- This line was added to test the pull request webhook trigger.
+# Trigger webhook test
